@@ -28,7 +28,7 @@ Systems containing static electric charge follow Coulomb’s Law. This applies t
 
 The core formula:
 
-<img width="285" height="151" alt="Screenshot 2025-11-16 142136" src="https://github.com/user-attachments/assets/4c67d0d6-a104-4ea6-b3a7-b4758b4d7487" />
+<img width="255" height="121" alt="Screenshot 2025-11-16 142136" src="https://github.com/user-attachments/assets/4c67d0d6-a104-4ea6-b3a7-b4758b4d7487" />
 
 F = k * (Q1 * Q2) / r^2
 
@@ -57,7 +57,7 @@ The electric field derived from Coulomb’s Law:
 
 E = F / Q
 
-<img width="501" height="497" alt="Screenshot 2025-11-16 141739" src="https://github.com/user-attachments/assets/033ce9a2-58e0-4189-b375-d2cb6902147d" />
+<img width="301" height="297" alt="Screenshot 2025-11-16 141739" src="https://github.com/user-attachments/assets/033ce9a2-58e0-4189-b375-d2cb6902147d" />
 
 
 ### Engineering importance:
@@ -72,7 +72,7 @@ E = F / Q
 
 Real circuits involve many interacting charges. The net force is found using **superposition**:
 
-<img width="1354" height="1185" alt="R" src="https://github.com/user-attachments/assets/5feb0378-2a88-4b36-bf92-1f05d8a99e39" />
+<img width="1054" height="885" alt="R" src="https://github.com/user-attachments/assets/5feb0378-2a88-4b36-bf92-1f05d8a99e39" />
 
 F_net = Σ Fi
 
