@@ -72,7 +72,7 @@ E = F / Q
 
 Real circuits involve many interacting charges. The net force is found using **superposition**:
 
-<img width="354" height="185" alt="R" src="https://github.com/user-attachments/assets/5feb0378-2a88-4b36-bf92-1f05d8a99e39" />
+<img width="354" height="285" alt="R" src="https://github.com/user-attachments/assets/5feb0378-2a88-4b36-bf92-1f05d8a99e39" />
 
 F_net = Σ Fi
 
