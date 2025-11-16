@@ -105,7 +105,9 @@ U = (1/2) * C * V^2
 ## 7. Real-Time Example: Smartphone Touchscreen
 
 Modern touchscreens rely directly on Coulomb’s Law:
-![capacitive-touch-screen](https://github.com/user-attachments/assets/d8b898c0-ce81-44a7-b2d7-034745801f6e)
+<img width="630" height="145" alt="Screenshot 2025-11-16 155816" src="https://github.com/user-attachments/assets/734fcd8d-6f9c-4a5d-b7ae-9a1e9518c264" />
+
+
 
 
 1. A finger introduces a small charge.  
