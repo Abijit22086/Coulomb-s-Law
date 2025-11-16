@@ -24,6 +24,7 @@ Systems containing static electric charge follow Coulomb’s Law. This applies t
 - PCB traces influenced by charge buildup  
 
 The core formula:
+F = k * (Q1 * Q2) / r^2
 
 
 Where:
@@ -34,4 +35,95 @@ Where:
 ---
 
 ## 3. Coulomb’s Law Equation & Real-Time Use
+F = (1 / (4πϵ₀)) * (Q1 * Q2) / r^2
+
+### Real-world uses:
+- Capacitive touchscreens that detect changes in electric fields  
+- Laser printers and copiers using charged toner  
+- CRT displays using electrostatic deflection  
+- Semiconductor doping processes involving charged ions  
+
+---
+
+## 4. Electric Field & Field Lines
+
+The electric field derived from Coulomb’s Law:
+
+E = F / Q
+
+### Engineering importance:
+- Predicts required insulation spacing  
+- Determines field distribution in capacitors  
+- Helps assess breakdown of dielectrics  
+- Used in simulations for integrated circuits  
+
+---
+
+## 5. Superposition in Multi-Charge Systems
+
+Real circuits involve many interacting charges. The net force is found using **superposition**:
+
+F_net = Σ Fi
+
+### Applications:
+- IC electrostatic modeling  
+- Capacitor field calculations  
+- Multi-electrode sensors  
+- Plasma systems & ion propulsion  
+
+---
+
+## 6. Work, Energy & Potential
+
+Electric potential due to a charge:
+
+V = k * (Q / r)
+
+### Importance:
+- Determines how much energy a capacitor can store  
+- Defines safe distances in power electronics  
+- Sets voltage distribution across conductors  
+- Guides high-voltage design practices  
+
+Energy stored in a capacitor:
+
+U = (1/2) * C * V^2
+
+---
+
+## 7. Real-Time Example: Smartphone Touchscreen
+
+Modern touchscreens rely directly on Coulomb’s Law:
+
+1. A finger introduces a small charge.  
+2. This disturbs the electric field pattern on the sensor grid.  
+3. The device detects these changes in capacitance.  
+4. Touch coordinates are processed instantly.  
+
+| Stage                | Coulomb’s Law Role                     |
+|----------------------|------------------------------------------|
+| Finger touches screen | Charge interacts with electrodes         |
+| Sensor detection      | Field/force varies with Q and r          |
+| Processor logic       | Calculates exact touch position          |
+| Display response      | Updates visually in milliseconds         |
+
+---
+
+## 8. Applications Enabled by Coulomb’s Law
+
+- Laser printers (charged toner attraction)  
+- Air purifiers (charged plates collecting dust)  
+- Particle accelerators (ion acceleration)  
+- Capacitive motion and proximity sensors  
+- Electrostatic painting (uniform charged droplets)  
+
+---
+
+## Conclusion
+
+Coulomb’s Law governs how electric charges interact, forming the physical foundation for countless technologies — from microelectronics to large power systems. Every touchscreen tap, capacitor charge cycle, and semiconductor process relies on this essential principle.
+
+Understanding Coulomb’s Law is crucial for anyone studying or working in electronics, electromagnetics, or high-voltage engineering.
+
+
 
