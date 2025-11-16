@@ -12,7 +12,7 @@ This law influences:
 
 Understanding Coulomb’s Law helps engineers design safe, efficient, and reliable electronic systems.
 
-<img width="695" height="519" alt="Screenshot 2025-11-16 141853" src="https://github.com/user-attachments/assets/70b7a3ca-609b-4567-baab-1c4a49886760" />
+<img width="495" height="319" alt="Screenshot 2025-11-16 141853" src="https://github.com/user-attachments/assets/70b7a3ca-609b-4567-baab-1c4a49886760" />
 
 
 ---
