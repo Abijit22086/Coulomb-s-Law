@@ -1,10 +1,3 @@
-# cou
-[//]: # "bc:2"
-
-Sure macha — here’s a more **natural, human-sounding**, smoother version of your Coulomb’s Law write-up. I kept all the structure and clarity, but made the language flow like something a polished university student or professional engineer would write.
-
----
-
 # **Coulomb’s Law: Electrostatic Force in Modern Electronic Systems**
 
 ---
