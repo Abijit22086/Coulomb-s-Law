@@ -12,6 +12,9 @@ This law influences:
 
 Understanding Coulomb’s Law helps engineers design safe, efficient, and reliable electronic systems.
 
+<img width="695" height="519" alt="Screenshot 2025-11-16 141853" src="https://github.com/user-attachments/assets/70b7a3ca-609b-4567-baab-1c4a49886760" />
+
+
 ---
 
 ## 2. System Overview: Electrostatic Force Between Charges
@@ -24,6 +27,9 @@ Systems containing static electric charge follow Coulomb’s Law. This applies t
 - PCB traces influenced by charge buildup  
 
 The core formula:
+
+<img width="285" height="151" alt="Screenshot 2025-11-16 142136" src="https://github.com/user-attachments/assets/4c67d0d6-a104-4ea6-b3a7-b4758b4d7487" />
+
 F = k * (Q1 * Q2) / r^2
 
 
@@ -51,6 +57,9 @@ The electric field derived from Coulomb’s Law:
 
 E = F / Q
 
+<img width="501" height="497" alt="Screenshot 2025-11-16 141739" src="https://github.com/user-attachments/assets/033ce9a2-58e0-4189-b375-d2cb6902147d" />
+
+
 ### Engineering importance:
 - Predicts required insulation spacing  
 - Determines field distribution in capacitors  
@@ -62,6 +71,8 @@ E = F / Q
 ## 5. Superposition in Multi-Charge Systems
 
 Real circuits involve many interacting charges. The net force is found using **superposition**:
+
+<img width="1354" height="1185" alt="R" src="https://github.com/user-attachments/assets/5feb0378-2a88-4b36-bf92-1f05d8a99e39" />
 
 F_net = Σ Fi
 
@@ -94,6 +105,8 @@ U = (1/2) * C * V^2
 ## 7. Real-Time Example: Smartphone Touchscreen
 
 Modern touchscreens rely directly on Coulomb’s Law:
+![capacitive-touch-screen](https://github.com/user-attachments/assets/d8b898c0-ce81-44a7-b2d7-034745801f6e)
+
 
 1. A finger introduces a small charge.  
 2. This disturbs the electric field pattern on the sensor grid.  
