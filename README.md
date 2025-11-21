@@ -54,10 +54,11 @@ Calculate:
 ## **Solution**
 
 **Given:**  
-- \( Q_1 = +6 \, \mu\text{C} = 6.0 \times 10^{-6}\ \text{C} \)  
-- \( Q_2 = -3 \, \mu\text{C} = -3.0 \times 10^{-6}\ \text{C} \)  
-- Distance \( r = 8\ \text{cm} = 0.08\ \text{m} \)  
-- Coulomb's constant \( k = 8.9875517923 \times 10^{9}\ \text{N·m}^2\text{/C}^2 \)
+- Q₁ = +6 μC = 6 × 10⁻⁶ C  
+- Q₂ = −3 μC = −3 × 10⁻⁶ C  
+- Distance r = 8 cm = 0.08 m  
+- Coulomb's constant k = 8.987 × 10⁹ N·m²/C²
+
 
 ### **Step 1**
 $$
