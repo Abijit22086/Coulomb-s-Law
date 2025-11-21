@@ -43,6 +43,58 @@ Where:
 ## 3. Coulomb’s Law Equation & Real-Time Use
 F = (1 / (4πϵ₀)) * (Q1 * Q2) / r^2
 
+## Coulomb’s Law Problem & Solution
+
+## **Problem**
+Two point charges, **Q₁ = +6 μC** and **Q₂ = −3 μC**, are placed **8 cm** apart.  
+Calculate:  
+1. The electrostatic force between the two charges (magnitude).  
+2. Whether the force is attractive or repulsive.
+
+## **Solution**
+
+Given:  
+- \( Q_1 = 6.0 \times 10^{-6}\ \text{C} \)  
+- \( Q_2 = -3.0 \times 10^{-6}\ \text{C} \)  
+- \( r = 0.08\ \text{m} \)  
+- \( k = 8.9875517923 \times 10^{9}\ \text{N·m}^2\text{/C}^2 \)
+
+### **Step 1**
+$$
+Q_1 Q_2 = (6.0 \times 10^{-6})(-3.0 \times 10^{-6}) = -1.8 \times 10^{-11}
+$$
+
+### **Step 2**
+$$
+r^2 = (0.08)^2 = 0.0064
+$$
+
+### **Step 3**
+$$
+F = k\frac{Q_1 Q_2}{r^2}
+$$
+
+$$
+F = 8.9875517923 \times 10^{9} \times 
+\frac{-1.8 \times 10^{-11}}{0.0064}
+$$
+
+$$
+F = -25.28\ \text{N}
+$$
+
+### **Magnitude**
+$$
+|F| = 25.28\ \text{N}
+$$
+
+---
+
+### **Final Answers**
+- **Force:**  
+  $$25.28\ \text{N}$$  
+- **Nature:** **Attractive**
+  
 ### Real-world uses:
 - Capacitive touchscreens that detect changes in electric fields  
 - Laser printers and copiers using charged toner  
